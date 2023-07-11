@@ -1,4 +1,4 @@
-H-k-c package
+H-k-c package:
 
 Generalized H-k after harmonic correction on receiver functions
 
@@ -9,3 +9,14 @@ by Jiangtao Li, Xiaodong Song, Pan Wang, and Lupei Zhu
 Reference: Li, J., Song, X., Wang, P., & Zhu, L. (2019). A generalized H-k method with harmonic corrections on Ps and its crustal multiples in receiver functions. J. Geophys. Res. Solid Earth, 124(4), 3782-3801.
 
 Contact: jiangtaoli@whu.edu.cn; xdsong@pku.edu.cn
+
+
+H-k-c-auto:
+
+Updated H-k-c package with automatic stability analysis
+
+by Junyi Gong, Jiangtao Li, and Mengkui Li
+
+Reference: Gong et al. (in prep)
+
+Contact: jiangtaoli@whu.edu.cn; mkli@sgg.whu.edu.cn
